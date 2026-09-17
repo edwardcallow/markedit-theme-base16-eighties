@@ -20,5 +20,14 @@
   },
   "dependencies": {
     "markedit-theming": "https://github.com/MarkEdit-app/MarkEdit-theming#v0.17.0"
+  },
+  "author": "Edward Callow",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardcallow/markedit-theme-base16-eighties.git"
+  },
+  "homepage": "https://github.com/edwardcallow/markedit-theme-base16-eighties#readme",
+  "bugs": {
+    "url": "https://github.com/edwardcallow/markedit-theme-base16-eighties/issues"
   }
 }
